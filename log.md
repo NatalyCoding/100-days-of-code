@@ -1,14 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: February 20, 2020
+##### (starting #100DaysOfCode)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: To Do App as logical starting point.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** "Hello World" would be way too simple for me, so I created ToDoApp. We all love ToDoApps, right? ;)
+The goal of this challenge is to create my own pet projects to develop my skills. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [ToDo App](http://www.example.com)
 
+
+//
+Log example:
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
