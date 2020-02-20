@@ -8,9 +8,11 @@
 **Thoughts:** "Hello World" would be way too simple for me, so I created ToDoApp. We all love ToDoApps, right? ;)
 The goal of this challenge is to create my own pet projects to develop my skills. 
 
-**Link to work:** [ToDo App](http://www.example.com)
+**Link to work:** [ToDo App](https://github.com/NatalyCoding/ToDoList1)
 
 
+//
+//
 //
 Log example:
 ### Day 0: February 30, 2016 (Example 2)
