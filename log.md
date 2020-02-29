@@ -28,14 +28,22 @@ Also I feel like I am slowly getting better in JavaScript. Fill a bit more confi
 ### Day 2: February 22, 2020
 ##### (Day2 Git & Github)
 **Today's Progress**: I've gone through previuos lectures on Git & Github (RSSchool). 
-**Thoughts** Usually I'm actively using few commands like add, commit, pull, push. Today I got familiar with some more advansed features. Prepearing for the test. 
+
+**Thoughts** Usually I'm actively using few commands like add, commit, pull, push. Today I got familiar with some more advansed features. Prepearing for the test.
+
 Also learned about Dart language and Flutter framework - multiplatform tool for mobile development. Will try to develop crypto app to test it. Don't know much about mobile development, but its definitely interesting field to explore. Have few ideas of apps I'd love to build. Wish I had more time for this.
-**Link(s) to work**: 
+
 
 
 ### Day 3: February 23, 2020
 ##### (Day3 HTML/CSS coding, Github Test, UI/UX practice, JS practice, Flutter apps)
 **Today's Progress**: A lot going on today. 
+
+
+### Day 9: February 29, 2020
+##### (Day9 CryptoAlert App Using Electron Framework)
+**Today's Progress**: A simple app to get familiar with Electron and how to build native desktop apps for Windows, Mac or Linux, while using web technologies such as HTML, CSS and JavaScript. 
+**Link(s) to work**: [CryptoAlert]https://github.com/NatalyCoding/cryptoalert
 
 
 ////old examples:
